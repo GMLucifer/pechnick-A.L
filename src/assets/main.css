@@ -1,0 +1,32 @@
+@import './reset.css';
+@import './base.css';
+@font-face {
+  font-family: 'Oldtimer';
+  src: url('./fonts/oldtimer/Oldtimer-GOPpg.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sturkopf';
+  src: url('./fonts/sturkopf/SturkopfGrotesk.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+#app {
+  max-width: 1920px;
+  min-width: 768px;
+  width: 100%;
+  margin: 0 auto;
+}
+body {  
+  font-family: Oldtimer;
+  text-align: justify;
+  color: var(--textcolor);
+}
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+  
+}
