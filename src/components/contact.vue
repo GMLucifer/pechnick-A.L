@@ -11,6 +11,12 @@
 
 <style scoped>
 .name {
+  height: 20px;
+  background-color: var(--maincolor);
+padding: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+  position: fixed;
+  bottom: 0px;
   max-width: 1920px;
   width: 100%;
   padding: 5px;

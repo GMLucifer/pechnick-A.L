@@ -23,8 +23,9 @@ body {
   text-align: justify;
   color: var(--textcolor);
 }
-@media (min-width: 1024px) {
+@media (max-width: 768px) {
   body {
+    width: 768px;
     display: flex;
     place-items: center;
   }

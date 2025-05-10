@@ -1,4 +1,7 @@
+
+
 <script>
+
 import Galleria from 'primevue/galleria';
 
 export default {
@@ -87,6 +90,7 @@ export default {
 }
 </script>
 
+
 <template>
     <div class="gallery" id="gallery">
         <h3 style="text-align: center; font-size: 30px; max-width:1920px ; width: 100%;">Галлерея</h3>
@@ -109,7 +113,6 @@ export default {
 .gallery{
     max-width: 1980px;
     width: 100%;
-    background-color: var(--maincolor);
     height: 700px;
     display: flex;
     align-items: center;

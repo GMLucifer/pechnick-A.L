@@ -24,6 +24,8 @@ import contact from './components/contact.vue'
 
 <style scoped>
 header {
+  position: fixed;
+  top: 0px;
   line-height: 1.5;
   background-color: var(--accentcolor);
   max-width: 1920px;
