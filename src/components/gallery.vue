@@ -9,68 +9,68 @@ export default {
     return {
         images: [
         {
-            itemImageSrc: '/pech1.jpg',
-            thumbnailImageSrc: '/pech1.jpg',
+            itemImageSrc: 'src/assets/img/pech1.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech1.jpg',
             alt: 'Description for Image 2',
             title: 'Title 2'
         },
         {
-            itemImageSrc: '/pech2.jpg',
-            thumbnailImageSrc: '/pech2.jpg',
+            itemImageSrc: 'src/assets/img/pech2.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech2.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech3.jpg',
-            thumbnailImageSrc: '/pech3.jpg',
+            itemImageSrc: 'src/assets/img/pech3.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech3.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech4.jpg',
-            thumbnailImageSrc: '/pech4.jpg',
+            itemImageSrc: 'src/assets/img/pech4.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech4.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech5.jpg',
-            thumbnailImageSrc: '/pech5.jpg',
+            itemImageSrc: 'src/assets/img/pech5.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech5.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech6.jpg',
-            thumbnailImageSrc: '/pech6.jpg',
+            itemImageSrc: 'src/assets/img/pech6.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech6.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech7.jpg',
-            thumbnailImageSrc: '/pech7.jpg',
+            itemImageSrc: 'src/assets/img/pech7.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech7.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech8.jpg',
-            thumbnailImageSrc: '/pech8.jpg',
+            itemImageSrc: 'src/assets/img/pech8.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech8.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech9.jpg',
-            thumbnailImageSrc: '/pech9.jpg',
+            itemImageSrc: 'src/assets/img/pech9.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech9.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech10.jpg',
-            thumbnailImageSrc: '/pech10.jpg',
+            itemImageSrc: 'src/assets/img/pech10.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech10.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/pech11.jpg',
-            thumbnailImageSrc: '/pech11.jpg',
+            itemImageSrc: 'src/assets/img/pech11.jpg',
+            thumbnailImageSrc: 'src/assets/img/pech11.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         }
