@@ -9,68 +9,68 @@ export default {
     return {
         images: [
         {
-            itemImageSrc: '/img/pech1.jpg',
-            thumbnailImageSrc: '../assets/img/pech1.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech1.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech1.jpg',
             alt: 'Description for Image 2',
             title: 'Title 2'
         },
         {
-            itemImageSrc: '/img/pech2.jpg',
-            thumbnailImageSrc: '/img/pech2.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech2.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech2.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech3.jpg',
-            thumbnailImageSrc: '/img/pech3.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech3.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech3.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech4.jpg',
-            thumbnailImageSrc: '/img/pech4.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech4.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech4.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech5.jpg',
-            thumbnailImageSrc: '/img/pech5.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech5.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech5.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech6.jpg',
-            thumbnailImageSrc: '/img/pech6.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech6.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech6.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech7.jpg',
-            thumbnailImageSrc: '/img/pech7.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech7.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech7.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech8.jpg',
-            thumbnailImageSrc: '/img/pech8.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech8.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech8.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech9.jpg',
-            thumbnailImageSrc: '/img/pech9.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech9.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech9.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '/img/pech10.jpg',
-            thumbnailImageSrc: '/img/pech10.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech10.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech10.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
         {
-            itemImageSrc: '../a/pech11.jpg',
-            thumbnailImageSrc: '../a/pech11.jpg',
+            itemImageSrc: '/pechnick-A.L/img/pech11.jpg',
+            thumbnailImageSrc: '/pechnick-A.L/img/pech11.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         }
@@ -78,8 +78,8 @@ export default {
       ],
       responsiveOptions: [
         { breakpoint: '1024px', numVisible: 5 },
-        { breakpoint: '768px', numVisible: 3 },
-        { breakpoint: '560px', numVisible: 1 }
+        { breakpoint: '768px', numVisible: 5 },
+        { breakpoint: '560px', numVisible: 5 }
       ]
     };
    },
@@ -123,5 +123,10 @@ export default {
 .p-galleria-thumbnails-content{
     background-color: var(--maincolor);
     border: 1px solid var(--textcolor);
+}
+
+@media (max-width:560px) {
+
+
 }
 </style>
