@@ -16,7 +16,7 @@ export default {
         },
         {
             itemImageSrc: '/img/pech2.jpg',
-            thumbnailImageSrc: '../assets/img/pech2.jpg',
+            thumbnailImageSrc: '/img/pech2.jpg',
             alt: 'Description for Image 3',
             title: 'Title 3'
         },
